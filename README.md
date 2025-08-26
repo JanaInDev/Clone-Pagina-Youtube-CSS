@@ -1,4 +1,4 @@
-# 🎬 Clone do YouTube - Página de Vídeo  
+# Clonando a página de vídeo do Youtube - Desafio DIO para Trilha Front-End 
 
 Este projeto é um clone da página de vídeo do YouTube, desenvolvido para praticar **HTML e CSS**.  
 O objetivo principal foi praticar a construção de layouts modernos utilizando **Flexbox** e conceitos de responsividade.  
@@ -16,5 +16,7 @@ O desafio foi uma ótima oportunidade para reforçar a organização do código,
 ## 📱 Responsividade
 O design se adapta automaticamente a diferentes tamanhos de tela, garantindo uma navegação fluida tanto no computador quanto no celular.  
 
+## Link:
+https://janaindev.github.io/Clone-Pagina-Youtube-CSS/
 ---
 👩‍💻 Projeto desenvolvido por Janaina Pascoal como parte do aprendizado na trilha de **Front-end** - Bootcamp Santander 2025 com DIO.  
